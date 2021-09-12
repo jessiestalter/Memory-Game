@@ -1,4 +1,6 @@
 # Memory-Game
-A Memory Game created using Java.
+A Memory Game created using Java, created for a graphics & multimedia class project.
 
 <img src="https://github.com/jessiestalter/Memory-Game/blob/main/screenshot/memorygame1.PNG" alt="Memory Game Image 1" width="300"/> <img src="https://github.com/jessiestalter/Memory-Game/blob/main/screenshot/memorygame2.PNG" alt="Memory Game Image 2" width="300"/>
+
+The memory game contains a 5x5 grid of cards that were personally designed with images of Billie Eilish (because, why not?) on the front and a design using her logo on the back of each of the cards. The user plays the game by clicking on a card, which is then turned over displaying the image. The user then clicks on a second card and if the images are matching, both cards will remain turned over, otherwise both cards will be flipped back to the other side. There is also one wild card, which when it is clicked will automatically stay flipped over. The object of the game is to get all of the cards to be flipped over. As the game is being played, the number of guess is being kept track of, as well as the number of total matches. At any point, the user has the option to restart the game, flipping all cards onto their back or to quit the game, closing the application.
